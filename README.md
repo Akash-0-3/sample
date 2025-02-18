@@ -1,2 +1,2 @@
 # sample
-The sample programs
+Sample C Programs 
